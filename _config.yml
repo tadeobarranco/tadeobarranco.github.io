@@ -1,6 +1,6 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: 
+title:            Tadeo Barranco
+description:      Mi espacio para compartir mi experiencia y pensamientos
+disqus_shortname: tadeobarranco
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
@@ -9,16 +9,16 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  name:           Tadeo Barranco
+  avatar:         tadeo.jpg
+  bio:            "Apasionado por el eCommerce, Magento y aprender continuamente."
+  email:          tbarrancoa@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        tadeobarranco  
   facebook:       
-  github:         
+  github:         tadeobarranco
   stackexchange:  
-  linkedin:       
+  linkedin:       tadeobarranco
   instagram:      
   flickr:         
   tumblr:         
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Mexico_City
 future:      false  # publish future dated posts --  true, false (default) 
 highlighter: rouge
 markdown:    kramdown
@@ -52,7 +52,7 @@ sass:
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
-paginate: 5
+paginate: 3
 
 kramdown:
   input: GFM

@@ -37,7 +37,7 @@
     <div class="entry-content">
       {{ content }}
       <footer class="entry-meta">
-        {% if page.modified %}<span>Updated on <span class="entry-date date published updated"><time datetime="{{ page.modified }}">{{ page.modified | date: "%B %d, %Y" }}</time></span></span>
+        {% if page.modified %}<span>Actualizado al <span class="entry-date date published updated"><time datetime="{{ page.modified }}">{% assign m = page.modified | date: "%-m" %}{{ page.modified | date: "%-d" }} de {% case m %} {% when '1' %}Enero {% when '2' %}Febrero {% when '3' %}Marzo {% when '4' %}Abril {% when '5' %}Mayo {% when '6' %}Junio {% when '7' %}Julio {% when '8' %}Agosto {% when '9' %}Septiembre {% when '10' %}Octubre {% when '11' %}Noviembre {% when '12' %}Diciembre {% endcase %} del {{ page.modified | date: "%Y" }}</time></span></span>
         <span class="author vcard"><span class="fn">{{ site.owner.name }}</span></span>{% endif %}
         {% if page.share != false %}{% include social-share.html %}{% endif %}
       </footer>

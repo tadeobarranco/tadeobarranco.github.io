@@ -29,7 +29,7 @@
 	button {
 		top: 0;
 		left: 0;
-		background: $comp-color;
+		background: $trout;
 		border: none;
 		width: 48px;
 		height: 45px;
@@ -298,7 +298,7 @@ All this is done for any sub-level being entered.
 .dl-menuwrapper button:hover,
 .dl-menuwrapper button.dl-active,
 .dl-menuwrapper ul {
-	background: $comp-color;
+	background: $trout;
 }
 
 // Fix for IE
