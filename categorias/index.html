@@ -1,8 +1,10 @@
 ---
 layout: post-index
-title: Tag Archive
-description: "An archive of posts sorted by tag."
+title: Categorías
+description: "Categorías del Blog acerca de eCommerce, Magento, programación en general y la vida de un programador."
 comments: false
+image:
+  feature: blog/blog.jpg
 ---
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
