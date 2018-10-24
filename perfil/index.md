@@ -10,7 +10,7 @@ modified: 2018-10-22
 
 Hola. Soy Tadeo Barranco. Estudié Ingeniería en Sistemas. Tengo 5 años desarrollando aplicaciones web enfocadas en Comercio Electrónico con [Magento](https://magento.com/).
 
-En estos 5 años trabajando en Comercio Electrónico he trabajado con gente muy talentosa y eso junto con las increibles oportunidades que representa la venta online me han convertido en un APASIONADO del E-COMMERCE.
+En estos años involucrado en Comercio Electrónico he trabajado con gente muy talentosa y eso junto con las increibles oportunidades que representa la venta online me han convertido en un APASIONADO del E-COMMERCE.
 
 Este sitio será el lugar donde expresaré y compartiré contigo todo lo que me gusta y me motiva del mundo del eCommerce, Magento y programación en general. Creo fielmente que compartir es la mejor forma de reafirmar un aprendizaje y motivar al `feedback`.
 
