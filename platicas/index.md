@@ -7,24 +7,27 @@ image:
   feature: open-source/talks.jpg
 ---
 
-{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-{% assign tags_list = site_tags | split:',' | sort %}
+{% for talk in site.data.talks %}
+<article class="hentry">
+  <header>
+    <h1 class="entry-title">
+      <a href="#" class="permalink" rel="bookmark" title="{{ talk.name }}"><i class="fa fa-bookmark"></i></a>
+      <a href="{{ talk.url }}" target="_blank" >{{ talk.name }}</a>
+    </h1>
+  </header>
 
-<ul class="entry-meta inline-list">
-  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
-    {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
-    <li><a href="#{{ this_word }}" class="tag"><span class="term">{{ this_word }}</span> <span class="count">{{ site.tags[this_word].size }}</span></a></li>
-  {% endunless %}{% endfor %}
-</ul>
+  <figure class="half">
+    {% for image in talk.images %}
+    <a href="{{ site.url }}/images/talks/{{ image }}">
+      <img src="{{ site.url }}/images/talks/{{ image }}" alt="{{ talk.name }}">
+    </a>
+    {% endfor %}
+  </figure>
 
-{% for item in (0..site.tags.size) %}{% unless forloop.last %}
-  {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
-  <article>
-  <h2 id="{{ this_word }}" class="tag-heading">{{ this_word }}</h2>
-    <ul>
-    {% for post in site.tags[this_word] %}{% if post.title != null %}
-      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-    {% endif %}{% endfor %}
-    </ul>
-  </article><!-- /.hentry -->
-{% endunless %}{% endfor %}
+  <div class="entry-content">
+    <footer class="entry-meta">
+      <span>En {{ talk.event }} | <span class="entry-date date updated">{% assign m = talk.event_date | date: "%-m" %}{{ talk.event_date | date: "%-d" }} de {% case m %} {% when '1' %}Enero {% when '2' %}Febrero {% when '3' %}Marzo {% when '4' %}Abril {% when '5' %}Mayo {% when '6' %}Junio {% when '7' %}Julio {% when '8' %}Agosto {% when '9' %}Septiembre {% when '10' %}Octubre {% when '11' %}Noviembre {% when '12' %}Diciembre {% endcase %} del {{ talk.event_date | date: '%Y' }}</span></span>
+    </footer>
+  </div>
+</article>
+{% endfor %}

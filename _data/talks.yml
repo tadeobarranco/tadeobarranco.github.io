@@ -1,0 +1,12 @@
+# Talks
+
+- name: Developing a Magento 2 Developer
+  event: MageTitans México
+  event_date: 2018-02-24
+  url: https://twitter.com/MageTitansMX/status/961354393642766336
+  images: [
+    'magetitansmx/chambitas.jpg', 
+    'magetitansmx/talk.jpg', 
+    'magetitansmx/talking.jpg', 
+    'magetitansmx/contribution.jpg'
+  ]
