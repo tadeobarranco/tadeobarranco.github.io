@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ¿Por qué y cómo crear un Blog?
-description: "Tener un blog NO te hará RICO ni FAMOSO. Por lo menos no de inicio y esta bien. Entonces, ¿por qué tener un blog? y ¿cómo crearlo?"
+title: ¿Por qué tener y cómo crear un Blog?
+description: "NO sólo los negocios deben o pueden tener un BLOG, tú tines mucho que compartir. Sólo enfócate en que tu contenido sea de calidad e importancia para alguén."
 tags: [vida de un programador]
 excerpt_separator: <!--more-->
 image:
@@ -9,13 +9,13 @@ image:
   feature: why-a-blog.jpg
 ---
 
-Tener un blog NO te hará RICO ni FAMOSO. Por lo menos no de inicio y esta bien. Entonces si ese no es el objetivo y actualmente puedo compartir MIS ideas con MIS amigos en las redes sociales ¿por qué tener un blog? Aprovechando que este artículo es el primero en mi blog personal te cuento mi punto de vista y te platico como puedes crear el tuyo también.
+<strong>NO</strong> sólo los <strong>NEGOCIOS</strong> deben o pueden tener un <strong>BLOG</strong>, tú tines mucho que compartir. Sólo enfócate en que tu contenido sea de calidad e importancia para alguén. Si te preguntas ¿por qué tener un blog? y ¿cómo puedes iniciar? Ahora te platico a detalle.
 
 <!--more-->
 
 ## ¿Por qué crear un Blog?
 
-
+Sin importar a que te dediques estoy seguro que tienes muchas cosas que <strong>compartir</strong>. Puede ser sobre tu experiencia técnica para resolver problemas o anécdotas alrededor de tu día a día, sobre el trabajo o acerca de tu tiempo libre.
 
 ### Heading 3
 
