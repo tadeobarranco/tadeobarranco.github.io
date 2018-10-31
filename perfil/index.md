@@ -3,7 +3,7 @@ layout: page
 title: Mi Perfil
 description: Hola. Soy Tadeo Barranco. Tengo 5 años desarrollando aplicaciones eCommerce utilizando Magento
 image:
-  feature: main.svg
+  feature: morelia.jpg
 comments: false
 modified: 2018-10-22
 ---
