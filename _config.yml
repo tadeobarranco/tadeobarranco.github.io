@@ -11,15 +11,14 @@ url:
 owner:
   name:           Tadeo Barranco
   avatar:         tadeo.jpg
-  bio:            "Apasionado por el eCommerce, Magento y aprender continuamente."
-  email:          tbarrancoa@gmail.com
+  bio:            "Apasionado por el eCommerce, Magento y seguir aprendiendo"
   # Social networking links used in footer. Update and remove as you like.
   twitter:        tadeobarranco  
-  facebook:       
+  facebook:       tadeobarrancoa
   github:         tadeobarranco
   stackexchange:  
   linkedin:       tadeobarranco
-  instagram:      
+  instagram:      tadeobarranco
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
