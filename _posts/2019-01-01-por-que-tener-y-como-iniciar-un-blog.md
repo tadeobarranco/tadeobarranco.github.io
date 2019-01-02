@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Por qué tener y cómo iniciar un Blog?
-description: "NO importa a que te dediques, debería tener un BLOG, todos tenemos algo que compartir. ¿Aún no te convences? Te voy a contar por que tener y cómo iniciar tu blog"
+description: "NO importa a que te dediques, deberías tener un BLOG, todos tenemos algo que compartir. ¿Aún no te convences? Te voy a contar por que tener y cómo iniciar tu blog"
 tags: [vida de un programador]
 excerpt_separator: <!--more-->
 image:
@@ -15,7 +15,7 @@ image:
 
 Este es mi primer artículo en el blog y me pareció genial explicar algunos puntos que me convencieron de crearlo. Si te soy sincero, llevo un par de años postergándolo, me he emocionado leyendo muchos artículos de otras personas y siempre que lo hago me digo a mí mismo, quiero hacer esto, compartir lo que yo aprendí o viví.
 
-Si bien con las redes sociales nos podemos expresar siempre y el contenido lo ven nuestros amigos y familiares tener un blog nos da esa sensación de propiedad, es algo que construimos o administramos nosotros y que puede tener el alcance que nosotros queramos, quién sabe, quizas un día alguién muy muy lejos de dónde tu estas se interese en tu contenido.
+Si bien con las redes sociales nos podemos expresar siempre y el contenido lo ven nuestros amigos y familiares, tener un blog nos da esa sensación de propiedad, es algo que construimos o administramos nosotros y que puede tener el alcance que nosotros queramos, quién sabe, quizas un día alguién muy muy lejos de dónde tu estas se interese en tu contenido.
 
 ## ¿Por qué tener un blog?
 
