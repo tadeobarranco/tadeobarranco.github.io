@@ -13,13 +13,13 @@ image:
 
 <!--more-->
 
-Este es mi primer artículo en el blog y me pareció genial explicar algunos puntos que me convencieron de crearlo. Si te soy sincero, llevo un par de años postergándolo, me he emocionado leyendo muchos artículos de otras personas y siempre que lo hago me digo a mí mismo, quiero hacer esto, compartir lo que yo aprendí o viví.
+Este es mi primer artículo en el blog y me pareció genial explicar algunos puntos que me convencieron de crearlo. Si te soy sincero, llevo un par de años postergándolo, me he emocionado leyendo muchos artículos de otras personas y siempre que lo hago me digo a mí mismo, quiero hacer esto, compartir lo que yo aprendo y vivo.
 
 Si bien con las redes sociales nos podemos expresar siempre y el contenido lo ven nuestros amigos y familiares, tener un blog nos da esa sensación de propiedad, es algo que construimos o administramos nosotros y que puede tener el alcance que nosotros queramos, quién sabe, quizas un día alguién muy muy lejos de dónde tu estas se interese en tu contenido.
 
 ## ¿Por qué tener un blog?
 
-El punto principal por el que <strong>YO</strong> decidí tener un blog fue compartir lo que he experimentado y aprendido en mi carrera profesional. Sin importar a que te dediques seguro que tú también tienes mucho que compartirnos, los temas pueden variar tanto como oficios y empleos hay en el mundo. Puedes por ejemplo encontrate blogs cómo el de mi amigo [Guillermo Alvarado](https://galvarado.com.mx/) donde nos platica sobre software en especial acerca de DevOps.
+El punto principal por el que <strong>YO</strong> decidí tener un blog fue compartir lo que he experimentado y aprendido en mi carrera profesional. Sin importar a que te dediques seguro que tú también tienes mucho que compartirnos, los temas pueden variar tanto como oficios, empleos, profesiones y gustos hay en el mundo. Puedes por ejemplo encontrate blogs cómo el de mi amigo [Guillermo Alvarado](https://galvarado.com.mx/) donde nos platica sobre software en especial acerca de DevOps.
 
 También tomé como pieza importante de inspiración el hecho de que tener un blog puede ser un excelente extra en tu curriculum, pués en tus publicaciones puedes demostrar el dominio que tienes sobre ciertos temas, cómo mi perfil esta alrededor de la programación primero que nada es un muy buen gesto tener tu propio sitio web y es mejor aún si publicas algunos proyectos <i>[Open Source](http://www.tadeobarranco.com/open-source/)</i> en los que estes trabajando.
 
@@ -47,4 +47,4 @@ Para las personas con un poco o mucho conocimiento en desarrollo web, algunas de
 
 Las motivaciones van a variar entre una persona y otra, pero <strong>TODOS</strong> somos capaces de compartir algo a los demás, todos tenemos lo necesario para crear un sitio que nos pertenezca, que sea una extensión de nosotros, un sitio donde podamos expresar y comunicar masivamente al igual que lo hacemos en persona con tu esposa o esposo o un par de amigos cercanos.
 
-Así que que opinas, ¿estás listo para tener tu propio blog? Inténtalo, no lo dejes para después, empieza ahora mismo, si necesitas ayuda contáctame con gusto puedo ayudarte.
+Así que ¿qué opinas?, ¿estás listo para tener tu propio blog? Inténtalo, no lo dejes para después, empieza ahora mismo, si necesitas ayuda contáctame con gusto puedo ayudarte.
