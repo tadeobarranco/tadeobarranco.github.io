@@ -13,7 +13,7 @@ La respuesta simple es <strong>SI</strong>, [Magento](https://magento.com/) por 
 
 <!--more-->
 
-Quizas en este punto ya conozcas qué es Magento y estes interesado en saber más, si es así, estás en el blog correcto pués la mayoría de mis artículos tendrán como punto central el uso y personalización de esta plataforma de comercio electrónico. Si no es tu caso, no te preocupes ahora te cuento qué es y para qué sirve.
+Quizás en este punto ya conozcas qué es Magento y estés interesado en saber más, si es así, estás en el blog correcto pués la mayoría de mis artículos tendrán como punto central el uso y personalización de esta plataforma de comercio electrónico. Si no es tu caso, no te preocupes ahora te cuento qué es y para qué sirve.
 
 Magento es una de las plataformas de comercio electrónico más populares alrededor del mundo por lo que [grandes marcas](https://www.mageworx.com/blog/2012/11/top-10-world-brands-on-magento/) le han confiado su capacidad de venta online. Es tan importante y popular que en el 2018 [Adobe](https://www.adobe.com/), una de las compañías más grandes de desarrollo de software la adquirió. Existen dos versiones, una que es gratuita y mejor conocida como Open Source o Magento Community Edition y una versión Enterprise cuyo costo por licencia anual varia de acuerdo a las ventas del negocio.
 
