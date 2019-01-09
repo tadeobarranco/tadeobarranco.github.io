@@ -20,9 +20,9 @@ Si bien con las redes sociales nos podemos expresar siempre y el contenido lo ve
 
 ## ¿Por qué tener un blog?
 
-El punto principal por el que <strong>YO</strong> decidí tener un blog fue compartir lo que he experimentado y aprendido en mi carrera profesional. Sin importar a que te dediques seguro que tú también tienes mucho que compartirnos, los temas pueden variar tanto como oficios, empleos, profesiones y gustos hay en el mundo. Puedes por ejemplo encontrate blogs cómo el de mi amigo [Guillermo Alvarado](https://galvarado.com.mx/) donde nos platica sobre software en especial acerca de DevOps.
+El punto principal por el que <strong>YO</strong> decidí tener un blog fue compartir lo que he experimentado y aprendido en mi carrera profesional. Sin importar a que te dediques seguro que tú también tienes mucho que compartirnos, los temas pueden variar tanto como oficios, empleos, profesiones y gustos hay en el mundo. Puedes por ejemplo encontrate blogs cómo el de mi amigo [Guillermo Alvarado](https://galvarado.com.mx/){:target="blank"} donde nos platica sobre software en especial acerca de DevOps.
 
-También tomé como pieza importante de inspiración el hecho de que tener un blog puede ser un excelente extra en tu curriculum, pués en tus publicaciones puedes demostrar el dominio que tienes sobre ciertos temas, cómo mi perfil esta alrededor de la programación primero que nada es un muy buen gesto tener tu propio sitio web y es mejor aún si publicas algunos proyectos <i>[Open Source](http://www.tadeobarranco.com/open-source/)</i> en los que estes trabajando.
+También tomé como pieza importante de inspiración el hecho de que tener un blog puede ser un excelente extra en tu curriculum, pués en tus publicaciones puedes demostrar el dominio que tienes sobre ciertos temas, cómo mi perfil esta alrededor de la programación primero que nada es un muy buen gesto tener tu propio sitio web y es mejor aún si publicas algunos proyectos <i>[Open Source](http://www.tadeobarranco.com/open-source/){:target="blank"}</i> en los que estes trabajando.
 
 Los dos párrafos anteriores hablan de cosas totalmente sin fines de lucro, y como te he dicho son mi motivación escencial, no necesito nada más que eso, el placer de compartir, pero quiero decirte que existen formas de monetizar tu blog y que cada artículo te genere ganancias. La opción más simple es utilizar publicidad, seguro te has encontrado con más de algún sitio repleto de publicidad, algunos otros optan por pedir <i>donativos</i> por que su contenido contribuye a resolver problemas específicos, en fin cada quién va buscando la forma que mejor le convenga de acuerdo a su contenido.
 
@@ -32,17 +32,17 @@ Existe más de una opción para que inicies con tu blog, la forma adecuada para 
 
 Algunas de las opciones para personas con poco o nulo conocimiento en desarrollo web son:
 
-- [Wordpress](https://wordpress.com/), con su servicio en la nube te permitirá crear tu sitio en unos cuantos clicks, practicamente sólo tendrás que configurar datos básicos de tu sitio web, como nombre, objetivo del sitio y listo, solo deberás seleccionar un tema para tu sitio o utilizar el que tienes por defecto y adelante, tienes tu blog.
+- [Wordpress](https://wordpress.com/){:target="blank"}, con su servicio en la nube te permitirá crear tu sitio en unos cuantos clicks, practicamente sólo tendrás que configurar datos básicos de tu sitio web, como nombre, objetivo del sitio y listo, solo deberás seleccionar un tema para tu sitio o utilizar el que tienes por defecto y adelante, tienes tu blog.
 
-- [Wix](https://es.wix.com/), seguramente ya viste el anuncio en alguno de tus videos de youtube donde [Luisito Comunica](https://twitter.com/LuisitoComunica) se crea un increible sitio utilizando Wix, pues bien, el proceso es igual de simple que en la opción anterior.
+- [Wix](https://es.wix.com/){:target="blank"}, seguramente ya viste el anuncio en alguno de tus videos de youtube donde [Luisito Comunica](https://twitter.com/LuisitoComunica){:target="blank"} se crea un increible sitio utilizando Wix, pues bien, el proceso es igual de simple que en la opción anterior.
 
 Para las personas con un poco o mucho conocimiento en desarrollo web, algunas de las opciones de frameworks especializados para contenido estatico son:
 
-- [Wordpress](https://es-mx.wordpress.org/download/), al igual que la versión en la nube una vez que el paquete es instalado esta listo para usarse y es increiblemente intuitivo. Además tienes la habilidad como desarrollador de crear nuevos componentes que extenderán las capacidades de tu sitio.
+- [Wordpress](https://es-mx.wordpress.org/download/){:target="blank"}, al igual que la versión en la nube una vez que el paquete es instalado esta listo para usarse y es increiblemente intuitivo. Además tienes la habilidad como desarrollador de crear nuevos componentes que extenderán las capacidades de tu sitio.
 
-- [Jekyll](https://jekyllrb.com/), mi blog le debe su existencia a este framework de sitios estáticos, es muy simple, con artículos creados a través del uso de Markdown, te da la libertad de enfocarte 100% en el contenido. Es por eso que lo elegí, en mi caso estoy utilizando un template, pero tu puedes crear tu sitio con los estilos y diseños que a tí mejor te parezcan.
+- [Jekyll](https://jekyllrb.com/){:target="blank"}, mi blog le debe su existencia a este framework de sitios estáticos, es muy simple, con artículos creados a través del uso de Markdown, te da la libertad de enfocarte 100% en el contenido. Es por eso que lo elegí, en mi caso estoy utilizando un template, pero tu puedes crear tu sitio con los estilos y diseños que a tí mejor te parezcan.
 
-- [Hugo](https://gohugo.io/), es otro framework muy parecido a jekyll, listo para crear sitios web de la menera más rápida posible.
+- [Hugo](https://gohugo.io/){:target="blank"}, es otro framework muy parecido a jekyll, listo para crear sitios web de la menera más rápida posible.
 
 ## Conclusiones
 
