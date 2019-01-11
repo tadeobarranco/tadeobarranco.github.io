@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "¿Cómo descargar Magento 2?"
-description: ""
+description: "El primer paso que necesitamos hacer cuando queremos profundizar en Magento 2, ya sea para extender las capacidades básicas de la plataforma o para administrar un ecommerce es saber cómo podemos DESCARGARLO."
 tags: [magento, magento 2, tutoriales, principiantes]
 excerpt_separator: <!--more-->
 image:
