@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 image:
   path: /images/blog/is-magento-ready.jpg
   feature: is-magento-ready.jpg
-  twitter: blog/is-magento-ready.jpg
+  twitter: /blog/is-magento-ready.jpg
 ---
 
 La respuesta simple es <strong>SI</strong>, [Magento](https://magento.com/){:target="blank"} por defecto cuenta con bastantes características que permiten al vendedor administrar su ecommerce de forma efectiva y dar a sus clientes los medios necesarios para culminar una compra. <strong>PERO</strong> todo va a depender de la lógica de negocio de cada vendedor pués ahí las características mínimas necesarias pueden variar.
