@@ -5,18 +5,18 @@ description: ""
 tags: [magento, magento 2, tutoriales, principiantes]
 excerpt_separator: <!--more-->
 image:
-  path: 
-  feature: 
-  twitter: 
+  path: /images/blog/cli.jpg
+  feature: cli.jpg
+  twitter: /blog/cli.jpg
 ---
 
-La curva de aprendizaje de Magento 2 ha resultado más larga de lo que la comunidad esperaba, por las diferencias entre *tecnologías* y *paradigmas* utilizadas respecto a sus versiones anteriores. Pero en definitiva, una mejora **ENORME** es la integración del **Command Line Interface** (CLI).
+La curva de aprendizaje de Magento 2 ha resultado más larga de lo que la comunidad esperaba, por las diferencias entre *tecnologías* y *paradigmas* utilizadas respecto a sus versiones anteriores. Pero en definitiva, una mejora **ENORME** es la integración del **Command Line Interface** (CLI) en español sería **Interfaz de Línea de Comandos**.
 
 <!--more-->
 
-La *interfaz de línea de comandos* que viene con Magento 2 son una serie de *comandos* que ejecutan alguna funcionalidad que antes era solo accesible manualmente a través del *admin* de Magento o que incluso no existía.
+La *interfaz de línea de comandos* que viene con Magento 2 son una serie de *comandos* que ejecutan alguna funcionalidad que antes era solo accesible manualmente a través del *admin* de Magento o que incluso no existía. Por ejemplo, crear un usuario para el administrador, activar la configuración de *mantenimiento* de la página, instalar datos de ejemplo, entre otras.
 
-Para conocer la lista de comandos disponibles es necesario que abrabamos nuestra *terminal* e ingresemos a la ruta de archivos donde nuestro proyecto fue creado. Ya estando ahí escribimos la siguiente línea:
+Para conocer la lista de comandos disponibles es necesario que abras tu *terminal* e ingreses a la ruta de archivos donde tu proyecto fue creado. Ya estando ahí escribe la siguiente línea:
 
 ```bash
 $ php bin/magento
@@ -145,7 +145,7 @@ Available commands:
   varnish:vcl:generate                     Generates Varnish VCL and echos it to the command line
 ```
 
-En las primeras líneas de este mensaje vemos la versión del **CLI** que siempre será igual a la versión de Magento que tenemos instalada. Vemos también, la forma en que debemos utilizar cada opción de esta lista. Para enseguida mostrarnos las *opciones* que tenemos al ejecutar `php bin/magento`. Por ejemplo, según la lista de opciones, puedes conocer solo la versión del *CLI* y por lo tanto de tu Magento sin necesidad de ver <strong>TODO</strong> el mensaje anterior. Esto sería posible ejecutando lo siguiente:
+En las primeras líneas de este mensaje se observa la versión del **CLI** que siempre será igual a la versión de Magento que tenemos instalada. Vemos también, la forma en que debemos utilizar cada opción de esta lista. Para enseguida mostrarnos las *opciones* que tenemos al ejecutar `php bin/magento`. Por ejemplo, según la lista de opciones, puedes conocer solo la versión del *CLI* y por lo tanto de tu Magento sin necesidad de ver <strong>TODO</strong> el mensaje anterior. Esto sería posible ejecutando lo siguiente:
 
 ```bash
 $ php bin/magento -V
@@ -159,13 +159,13 @@ Magento CLI version 2.2.6
 
 Lo siguiente es una lista de cada **comando** disponible, dicha lista puede verse alterada dependiendo de la versión de Magento instalada así como de la distribución, que puede ser *Open Source* o *Enterprides*. Así mismo, tú puedes crear un módulo para tener tus propios comandos.
 
-De la lista podemos observar varios puntos interesantes. **Primero** tenemos a dos comandos listados que son `help` y `list`. Estos comandos pdriamos tomarlo como *generales* ya que pueden interactuar con todos los demás. Por ejemplo, ejecutando:
+De la lista se puede observar varios puntos interesantes. **Primero** hay dos comandos listados que son `help` y `list`. Estos comandos podrias tomarlos como *generales* ya que pueden interactuar con todos los demás. Por ejemplo, ejecutando:
 
 ```bash
 $ php bin/magento help list
 ```
 
-El *script* nos mostraría la siguiente respuesta:
+El *script* mostraría la siguiente respuesta:
 
 ```bash
 Usage:
@@ -197,11 +197,11 @@ Help:
     php bin/magento list --raw
 ```
 
-Lo que pasa con este comando y su respuesta es lo siguiente, le estamos diciendo al comando `help` que nos *explique* como utilizar el comando `list`, a lo que responde con la forma de utilizarlo, sus opciones y argumentos válidos y diferentes ejemplos de uso para una mejor interpretación. 
+Lo que pasa con este comando y su respuesta es lo siguiente, le estas diciendo al comando `help` que te *explique* como utilizar el comando `list`, a lo que responde con la forma de utilizarlo, sus opciones y argumentos válidos y diferentes ejemplos de uso para una mejor interpretación. 
 
-El comando `list` funciona de forma muy similar, sin embargo, podemos diferenciar que el comando *help* funciona para instrucciones o comandos finales, es decir aquellos que ya ejecutan una acción, mientras que list trabaja con los grupos o conjuntos de comandos. Por ejemplo si ejecutaramos solo `php bin/magento list` veríamos el mismo resultado obtenido de ejecutar `php bin/magento`.
+El comando `list` funciona de forma muy similar, sin embargo, puedes diferenciar que el comando *help* funciona para instrucciones o comandos finales, es decir aquellos que ya ejecutan una acción, mientras que list trabaja con los grupos o conjuntos de comandos. Por ejemplo si ejecutas solo `php bin/magento list` verías el mismo resultado obtenido de ejecutar `php bin/magento`.
 
-Ahora, identificando los *grupos* de códigos disponibles en una instalación *default* de Magento 2 tenemos que son:
+Ahora, identificando los *grupos* de códigos disponibles en una instalación *default* de Magento 2 puedes notar que son:
 
 - admin
 - app
@@ -224,9 +224,9 @@ Ahora, identificando los *grupos* de códigos disponibles en una instalación *d
 - theme
 - varnish
 
-Claro, esta lista de grupos puede tener más o menos opciones dependiendo nuevamente de la versión. Estos grupos puedes diferenciarlos en la lista que tenemos arriba pues tienen diferente *identación* que el resto de la lista, separando así las agrupaciones de los comandos disponibles.
+Claro, esta lista de grupos puede tener más o menos opciones dependiendo nuevamente de la versión. Estos grupos puedes diferenciarlos en la lista de arriba pues tienen diferente *identación* que el resto de la lista, separando así las agrupaciones de los comandos disponibles.
 
-Con la práctica y el desarrollo de muchos proyectos en Magento 2 estas agrupaciones te seran muy familiares y utilizando los comandos `list` y `help` podrás hacer un uso adecuado de cada comando. Por ejemplo, utilicemos el comando list para saber que comandos tengo disponibles en el grupo *admin*, escribe en tu terminal:
+Con la práctica y el desarrollo de muchos proyectos en Magento 2 estas agrupaciones te seran muy familiares y utilizando los comandos `list` y `help` podrás hacer un uso adecuado de cada comando. Por ejemplo, utiliza el comando list para saber que comandos tienes disponibles en el grupo *admin*, escribe en tu terminal:
 
 ```bash
 $ php bin/magento list admin
@@ -234,7 +234,7 @@ $ php bin/magento list admin
 
 La respuesta, además de indicarte la forma de uso y opciones disponibles lista los comandos disponibles para la palabra clave "admin", en este caso `admin:user:create` y `admin:user:unlock` los cuales son útiles para crear y desbloquear un usario del administrador de Magento 2 respectivamente.
 
-Ahora puedes ejecutar el comando *help* para alguno de esos comandos disponibles y saber cuáles son los argumentos y opciones disponibles. Por ejemplo, la respuesta tras ejecutar `php bin/magento help admin:user:create` será:
+Ahora, puedes ejecutar el comando *help* para alguno de esos comandos disponibles y saber cuáles son los argumentos y opciones disponibles. Por ejemplo, la respuesta tras ejecutar `php bin/magento help admin:user:create` será:
 
 ```bash
 Usage:
