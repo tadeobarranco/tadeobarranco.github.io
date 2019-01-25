@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Cómo utilizar el CLI de Magento 2?
-description: ""
+description: "La curva de aprendizaje de Magento 2 ha resultado más larga de lo que la comunidad esperaba, por las diferencias entre *tecnologías* y *paradigmas* utilizadas respecto a sus versiones anteriores. Pero en definitiva, una mejora ENORME es la integración del Command Line Interface (CLI), en español sería, Interfaz de Línea de Comandos."
 tags: [magento, magento 2, tutoriales, principiantes]
 excerpt_separator: <!--more-->
 image:
@@ -10,7 +10,7 @@ image:
   twitter: /blog/cli.jpg
 ---
 
-La curva de aprendizaje de Magento 2 ha resultado más larga de lo que la comunidad esperaba, por las diferencias entre *tecnologías* y *paradigmas* utilizadas respecto a sus versiones anteriores. Pero en definitiva, una mejora **ENORME** es la integración del **Command Line Interface** (CLI) en español sería **Interfaz de Línea de Comandos**.
+La curva de aprendizaje de Magento 2 ha resultado más larga de lo que la comunidad esperaba, por las diferencias entre *tecnologías* y *paradigmas* utilizadas respecto a sus versiones anteriores. Pero en definitiva, una mejora **ENORME** es la integración del **Command Line Interface** (CLI), en español sería, **Interfaz de Línea de Comandos**.
 
 <!--more-->
 
