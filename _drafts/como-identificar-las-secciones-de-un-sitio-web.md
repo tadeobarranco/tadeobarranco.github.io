@@ -26,13 +26,60 @@ Para todos en general, siempre es bueno aprender algo nuevo. Así la siguiente v
 
 ### Header
 
-El header lo puedes identificar por ser la parte superior de una página de internet. De hecho **header** hace referencia a ser la **cabecera**. 
+El header lo puedes identificar por ser la parte superior de una página de internet. De hecho **header** hace referencia a ser la **cabecera**. Dependiendo del giro del negocio al que el sitio web represente, en el header por lo menos verás siempre el **logo** de la marca y un menú de navegación.
+
+<figure>
+	<a href="/images/blog/web/basicheader.png">
+		<img src="/images/blog/web/basicheader.png" alt="Header básico">
+	</a>
+</figure>
+
+Cuando tu sitio es demasiado grande o tiene mucho contenido, puedes incluso agregarle un buscador, ya sea para productos o publicaciones.
+
+<figure>
+	<a href="/images/blog/web/searchheader.png">
+		<img src="/images/blog/web/searchheader.png" alt="Header con buscador">
+	</a>
+</figure>
+
+Así mismo, si tu sitio es una tienda en línea, o tienes un registro de usuarios tu header debe contar con un ícono de **carrito** o **bolsa** que represente el lugar donde vas agregando los productos que después comprarás, y debe también tener acceso a tu cuenta como usuario.
+
+<figure>
+	<a href="/images/blog/web/ecommerceheader.png">
+		<img src="/images/blog/web/ecommerceheader.png" alt="Header para ecommerce">
+	</a>
+</figure>
+
+Estas imágenes que te muestro son sólo ejemplos. Pero recuerda dependiendo el giro de tu negocio y la página que estes creando los elementos de un header pueden ser:
+
+- Logo (Obligatorio)
+- Menú (Obligatorio)
+- Buscador (Depende del sitio)
+- Menú de usuario (Depende del sitio)
+- Ícono de carrito (Depende del sitio)
 
 ### Footer
 
+Ahora, es turno de hablar del **footer**, el cuál es en un sitio web, lo que los pies son a la cabeza, es decir, el opuesto en posición al **header**. Mientras que el header o cabecera es lo primero que observamos al ingresar en un sitio web, muchas veces el footer no es visible hasta navegar todo el largo del sitio. Siempre lo encontramos hasta el final de la página.
+
+De la misma forma que el *header* el contenido del *footer* dependerá en gran medida de las necesidades de cada negocio, sin embargo te puede decir que por lo general cuenta con las siguientes secciones:
+
+- Menú de navegación (el mismo del header con diferente estilo)
+- Información del negocio
+- Información sobre los servicios, términos y condiciones
+- Sellos o íconos de confianza
+- Fromulario para unirse al boletín de noticias (si cuenta con esta funcionalidad)
+- Mensaje de los derechos del sitio
+
+<figure>
+	<a href="/images/blog/web/fullfooter.png">
+		<img src="/images/blog/web/fullfooter.png" alt="Footer completo">
+	</a>
+</figure>
+
 ## Paso #2 - El homepage o página de inicio
 
-### Imagenes
+### Carrusel de Imagenes
 
 ### Elementos destacados
 
