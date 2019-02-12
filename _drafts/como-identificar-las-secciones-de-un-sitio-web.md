@@ -79,6 +79,10 @@ De la misma forma que el *header* el contenido del *footer* dependerá en gran m
 
 ## Paso #2 - El homepage o página de inicio
 
+La página de inicio también conocida como **homepage**, es la página que los usuarios ven cuando ingresan a nuestro sitio. Es decir, es el contenido de la página que te muestra el navegador en cuanto ingresas a una *url*, por ejemplo, si ingresas a [www.tadeobarranco.com](http://www.tadeobarranco.com/) el contenido que observas es el contenido de mi página de inicio.
+
+El objetivo de una página de inicio es invitar al usuario a que navegue dentro de nuestro sitio. En esta página se crea contenido atractivo para insitar a visitar una página, artículo o producto de nuestro sitio. Los elementos
+
 ### Carrusel de Imagenes
 
 ### Elementos destacados
