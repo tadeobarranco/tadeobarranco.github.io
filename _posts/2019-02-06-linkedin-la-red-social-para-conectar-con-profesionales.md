@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 image:
   path: /images/blog/linkedin.jpg
   feature: linkedin.jpg
-  twitter: /blog/linkeding.jpg
+  twitter: blog/linkeding.jpg
 ---
 
 Las redes sociales llegaron para quedarse y **[Linkedin](https://www.linkedin.com/){:target="blank"}** no es la excepción, en esta puedes administrar tu **perfil profesional**, construir y participar en tu **red** de contactos profesionales, accediendo a **conocimiento**, **ideas** y **oportunidades**.
