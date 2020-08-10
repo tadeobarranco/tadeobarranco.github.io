@@ -7,10 +7,6 @@ body {
 	padding: 0;
 	width: 100%;
 	background-color: $body-color;
-
-	&.maintenance {
-		background-color: $body-color-maintenance;
-	}
 }
 
 /* 
@@ -594,43 +590,4 @@ header .entry-meta {
 
 #goog-wm-sb {
 	@extend .btn;
-}
-
-.maintenance {
-
-	.content {
-		bottom: 0;
-		height: 430px;
-		left: 0;
-		margin: auto;
-		position: absolute;
-		right: 0;
-		text-align: center;
-		top: 0;
-		width: 300px;
-
-		@media #{$medium} {
-			height: 350px;
-			width: 350px;
-		}
-
-		@media #{$large} {
-			height: 350px;
-			width: 350px;
-		}
-
-		h1 {
-			color: $white;
-			font-size: 50px;
-			text-shadow: 2px 2px #8CC640;
-		}
-
-		h3 {
-			color: $white;
-		}
-
-		p {
-			color: $white;
-		}
-	}
 }
