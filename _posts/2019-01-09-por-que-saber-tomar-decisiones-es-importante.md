@@ -5,9 +5,8 @@ description: "Las decisiones que tomamos a diario afectan directamente nuestra v
 tags: [vida de un programador]
 excerpt_separator: <!--more-->
 image:
-  path: /images/blog/take-decision.png
   feature: take-decision.png
-  twitter: blog/take-decision.png
+  twitter: take-decision.png
 ---
 
 Las decisiones que tomamos a diario afectan directamente nuestra vida. <strong>TODA</strong> decisión tomada tiene sus consecuencias, sean buenas, malas o complicadas. Cada quién debe ser responsable de lo que ocurra y afrontar el peso de lo que decidimos.

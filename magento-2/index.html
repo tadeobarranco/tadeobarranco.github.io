@@ -1,0 +1,18 @@
+---
+layout: post-index
+title: Magento 2
+description: "Blog acerca de eCommerce, Magento, programación en general y la vida de un programador."
+comments: false
+image:
+  feature: magento2.png
+  twitter: magebto2.png
+---
+
+<ul>
+    <li class="entry-title"><a href="#">Trabajo en Progreso</a></li>
+{% for post in site.tags["magento-2"] %}
+    <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+{% include pagination.html %}

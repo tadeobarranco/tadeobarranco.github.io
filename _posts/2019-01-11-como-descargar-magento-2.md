@@ -5,9 +5,8 @@ description: "El primer paso que necesitamos hacer cuando queremos profundizar e
 tags: [magento, magento 2, tutoriales, principiantes]
 excerpt_separator: <!--more-->
 image:
-  path: /images/blog/download-magento.jpg
-  feature: download-magento.jpg
-  twitter: /blog/download-magento.jpg
+  feature: download-magento.png
+  twitter: download-magento.png
 ---
 
 El primer paso que necesitamos hacer cuando queremos profundizar en Magento 2, ya sea para extender las capacidades básicas de la plataforma o para administrar un ecommerce es saber cómo podemos <strong>DESCARGARLO</strong>.

@@ -5,9 +5,8 @@ description: "Sin querer desilucionar a nadie, la realidad es que el trabajo per
 tags: [vida de un programador]
 excerpt_separator: <!--more-->
 image:
-  path: /images/blog/perfect-job.jpg
-  feature: perfect-job.jpg
-  twitter: blog/perfect-job.jpg
+  feature: perfect-job.png
+  twitter: perfect-job.png
 ---
 
 Sin querer desilucionar a nadie, la realidad es que el trabajo perfecto **NO EXISTE**, pero mi objetivo, no es desanimarte sino todo lo contario. Todos los trabajos tienen sus áreas de oportunidad para mejorar y **TÚ** eres una pieza fundamental para que el empleo que tienes sea **PERFECTO** para tí.

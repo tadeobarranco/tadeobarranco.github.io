@@ -5,9 +5,8 @@ description: "En los últimos años el eCommerce ha permitido que muchos nos des
 tags: [vida de un programador, ecommerce]
 excerpt_separator: <!--more-->
 image:
-  path: /images/blog/career.jpg
-  feature: career.jpg
-  twitter: /blog/career.jpg
+  feature: career.png
+  twitter: career.png
 ---
 
 En los últimos años el *eCommerce* ha permitido que muchos nos desarrollemos profesionalmente en áreas que ni siquiera existían en el pasado. La demanda y la forma de consumo de servicios y productos seguirá cambiando y nuevas oportunidades seguirán existiendo.

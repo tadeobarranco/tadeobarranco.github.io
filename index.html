@@ -1,40 +1,21 @@
 ---
 layout: post-index
-title: eCommerce, Magento y más
+title: Magento Developer
 description: "En este sitio comparto mi experiencia en eCommerce, Magento, programación en general y la vida de un programador."
 comments: false
 image:
-  feature: morelia.jpg
-  twitter: morelia.jpg
+  feature: home.png
+  twitter: home.png
 ---
 
-{% for post in paginator.posts %}
-<article class="hentry">
-  <header>
-    {% if post.image.feature %}
-      <div class="entry-image-index">
-        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/images/blog/{{ post.image.feature }}" alt="{{ post.title }}"></a>
-      </div><!-- /.entry-image -->
-    {% endif %}
-    <div class="entry-meta">
-      <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{% assign m = post.date | date: "%-m" %}{{ post.date | date: "%-d" }} de {% case m %} {% when '1' %}Enero {% when '2' %}Febrero {% when '3' %}Marzo {% when '4' %}Abril {% when '5' %}Mayo {% when '6' %}Junio {% when '7' %}Julio {% when '8' %}Agosto {% when '9' %}Septiembre {% when '10' %}Octubre {% when '11' %}Noviembre {% when '12' %}Diciembre {% endcase %} del {{ post.date | date: "%Y" }}</a></time></span><span class="author vcard"><span class="fn"><a href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>
-      {% if site.reading_time %}
-      <span class="entry-reading-time">
-        <i class="fa fa-clock-o"></i>
-        {% include read-time-index.html %}
-      </span><!-- /.entry-reading-time -->
-      {% endif %}
-    </div><!-- /.entry-meta -->
-    {% if post.link %}
-      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
-    {% else %}
-      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
-    {% endif %}
-  </header>
-  <div class="entry-content">
-    {{ post.excerpt }}
-  </div><!-- /.entry-content -->
-</article><!-- /.hentry -->
-{% endfor %}
+<blockquote>
+    <p><strong>¡Hola!</strong> Trabajo en proyectos eCommerce utilizando la plataforma Magento desde el año 2013 y en este <strong>blog personal</strong> comparto experimentos y anécdotas de autoentrenamiento, mis metas profesionales, mis sueños y pasiones personales.</p>
+</blockquote>
 
-{% include pagination.html %}
+<p>Siempre me encuentro aprendiendo o mejorando habilidades que me permitan realizar adecuadamente mis tareas diarias, sin embargo, no siempre soy el sujeto más habil a la hora de leer documentación técnica y necesito invertir muchas horas de práctica.</p>
+
+<p>Creé este blog con el propósito de <strong>documentar</strong> y <strong>compartir</strong> los resultados después de realizar algún experimento o entrenamiento.</p>
+
+<p>Ahora bien, <strong>no todo se trata de trabajo</strong>. Como ser humano que soy, tengo opiniones, anécdotas, metas y sueños de los que también me gusta escribir de vez en cuando.</p>
+
+<p><strong>Muchas gracias</strong> por tomarte el tiempo de visitar mi blog. Te invito a leer cada artículo y aportar tu valiosa opinión. <strong>Feliz lectura</strong>.</p>

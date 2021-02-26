@@ -5,9 +5,8 @@ description: "NO son necesarios demasiados conocimientos técnicos para instalar
 tags: [magento, magento 2, tutoriales, principiantes]
 excerpt_separator: <!--more-->
 image:
-  path: /images/blog/install-magento.jpg
-  feature: install-magento.jpg
-  twitter: /blog/install-magento.jpg
+  feature: install-magento.png
+  twitter: install-magento.png
 ---
 
 <strong>NO</strong> son necesarios demasiados conocimientos técnicos para instalar la plataforma. Ya hemos visto [cómo descargar Magento 2](http://www.tadeobarranco.com/como-descargar-magento-2/), y existen <strong>dos</strong> métodos de <strong>instalación</strong>, ambos los describo paso a paso.

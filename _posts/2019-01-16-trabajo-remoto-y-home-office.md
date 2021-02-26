@@ -5,9 +5,8 @@ description: "El trabajo remoto y el home office te puede otorgar mayor libertad
 tags: [vida de un programador]
 excerpt_separator: <!--more-->
 image:
-  path: /images/blog/remote-and-home-office.jpg
-  feature: remote-and-home-office.jpg
-  twitter: blog/remote-and-home-office.jpg
+  feature: remote-and-home-office.png
+  twitter: remote-and-home-office.png
 ---
 
 El trabajo remoto y el home office te puede otorgar mayor libertad, pero <strong>NO</strong> debemos confundirlo con <strong>LIBERTINAJE</strong>. Aún cuando no trabajas en una oficina tu enfoque debe estar 100% en cumplir tus tareas con <strong>RESPONSABILIDAD</strong>. En este artículo te cuento mi experiencia sobre el trabajo desde casa, los pros y cotras desde mi punto de vista y cuándo sí o cuándo no es conveniente trabajar de este modo.

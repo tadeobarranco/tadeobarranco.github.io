@@ -29,7 +29,7 @@
 	button {
 		top: 0;
 		left: 0;
-		background: $trout;
+		background: $oxford-blue;
 		border: none;
 		width: 48px;
 		height: 45px;
@@ -63,12 +63,12 @@
 		position: absolute;
 		width: 68%;
 		height: 5px;
-		background: #fff;
+		background: $persian-green;
 		top: 10px;
 		left: 16%;
 		box-shadow: 
-			0 10px 0 #fff, 
-			0 20px 0 #fff;
+			0 10px 0 $persian-green, 
+			0 20px 0 $persian-green;
 	}
 
 	ul {
@@ -85,14 +85,14 @@
 		h4 {
 			margin:0;
 			padding: 15px 20px 0;
-			color: rgba(#fff,0.9);
+			color: rgba($persian-green,0.9);
 		}
 
 		p {
 			margin: 0;
 			padding: 15px 20px;
 			@include font-rem(14);
-			color: rgba(#fff,0.8);
+			color: rgba($persian-green,0.8);
 			font-weight: 300;
 
 			a {
@@ -124,7 +124,7 @@
 			top: 0;
 			line-height: 50px;
 			font-family: "fontawesome";
-			color: #fff;
+			color: $persian-green;
 			speak: none;
 			-webkit-font-smoothing: antialiased;
 			content: "\f105";
@@ -298,7 +298,7 @@ All this is done for any sub-level being entered.
 .dl-menuwrapper button:hover,
 .dl-menuwrapper button.dl-active,
 .dl-menuwrapper ul {
-	background: $trout;
+	background: $oxford-blue;
 }
 
 // Fix for IE

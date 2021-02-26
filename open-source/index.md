@@ -4,7 +4,7 @@ title: Open Source
 description: "Proyectos Open Source de eCommerce, Magento y programación en general."
 comments: false
 image:
-  feature: open-source/opensource.jpg
+  feature: open-source.png
 ---
 
 {% for project in site.data.opensource %}

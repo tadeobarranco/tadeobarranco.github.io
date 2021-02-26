@@ -5,9 +5,8 @@ description: "SÍ, comprar en línea puede ser algo que produzca MIEDO, es enten
 tags: [vida de un programador, ecommerce]
 excerpt_separator: <!--more-->
 image:
-  path: /images/blog/miedo.jpg
-  feature: miedo.jpg
-  twitter: /blog/miedo.jpg
+  feature: miedo.png
+  twitter: miedo.png
 ---
 
 **SÍ**, comprar en línea puede ser algo que produzca **MIEDO**, es entendible, pero, **¿cómo perder el miedo?**, *¿qué tan real es el robo de datos bancarios y cómo evitarlo?*, *¿cómo confiar en qué el producto llegará?*, *¿qué pasa si no sabes usar la tecnología, ya sea computadora o tu teléfono celular?*

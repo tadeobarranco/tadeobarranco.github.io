@@ -16,7 +16,7 @@
   {% if page.image.credit %}<div class="image-credit">Image source: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div><!-- /.image-credit -->{% endif %}
   {% if page.image.feature %}
     <div class="entry-image">
-      <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }}">
+      <!--<img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }}">-->
     </div><!-- /.entry-image -->
   {% endif %}
   <div class="header-title">
@@ -28,7 +28,11 @@
 </div><!-- /.entry-header -->
 
 <div id="main" role="main">
-  {{ content }}
+  <article class="hentry">
+    <div class="entry-content">
+      {{ content }}
+    </div>
+  </article>
 </div><!-- /#main -->
 
 <div class="footer-wrapper">

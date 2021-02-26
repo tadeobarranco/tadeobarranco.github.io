@@ -5,9 +5,8 @@ description: "NO importa a que te dediques, deberías tener un BLOG, todos tenem
 tags: [vida de un programador]
 excerpt_separator: <!--more-->
 image:
-  path: /images/blog/why-a-blog.jpg
-  feature: why-a-blog.jpg
-  twitter: blog/why-a-blog.jpg
+  feature: why-a-blog.png
+  twitter: why-a-blog.png
 ---
 
 <strong>NO</strong> importa a que te dediques, deberías tener un <strong>BLOG</strong>, es enserio, todos tenemos algo que compartir ya sea nuestro día a día en el trabajo, nuestra experiencia para resolver un problema, en fin, <strong>TÚ</strong> decides. ¿Aún no te convences? Te voy a contar por qué tener y cómo iniciar tu propio blog.
